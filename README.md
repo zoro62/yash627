@@ -1,6 +1,6 @@
 - 👋 Hi, I’m yashraj
 - 👀 I’m interested in nothing specific
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python,c,c++and java
 - 💞️ I’m looking to collaborate with anyone
 - 📫 How to reach me mail rajanayashraj@g..... 
 - 😄 Pronouns:qwerrtyuiokkjhg
